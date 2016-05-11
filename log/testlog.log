@@ -1,0 +1,51 @@
+2016-02-18 00:21:21,089 - Logfile -INFO - App launched
+2016-02-18 00:21:21,558 - Logfile -INFO - Browser maximized
+2016-02-18 00:21:23,473 - Logfile -INFO - Click search button
+2016-02-18 00:21:23,596 - Logfile -INFO - Capture alert text
+2016-02-18 00:21:24,111 - Logfile -INFO - Accept alert window
+2016-02-18 00:21:24,116 - Logfile -INFO - Comparing actual & expected result
+2016-02-18 00:26:47,929 - Alert -INFO - App launched
+2016-02-18 00:26:48,216 - Alert -INFO - Browser maximized
+2016-02-18 00:26:48,895 - Alert -INFO - Click search button
+2016-02-18 00:26:50,957 - Alert -INFO - Capture alert text
+2016-02-18 00:26:51,092 - Alert -INFO - Accept alert window
+2016-02-18 00:26:51,100 - Alert -INFO - Comparing actual & expected result
+2016-02-19 16:50:25,021 - TestAlert -INFO - Navigate
+2016-02-19 16:50:25,860 - TestAlert -INFO - Maximize
+2016-02-19 16:50:26,841 - TestAlert -INFO - Submit
+2016-02-19 16:50:32,425 - TestAlert -INFO - Alert text
+2016-02-19 16:50:32,570 - TestAlert -INFO - Accept Alert
+2016-02-19 16:50:34,119 - TestAlert -INFO - Quit
+2016-02-19 16:53:34,133 - TestAlert -INFO - Navigate
+2016-02-19 16:53:34,759 - TestAlert -INFO - Maximize
+2016-02-19 16:53:35,774 - TestAlert -INFO - Submit
+2016-02-19 16:53:40,830 - TestAlert -INFO - Alert text
+2016-02-19 16:53:40,911 - TestAlert -INFO - Accept Alert
+2016-02-19 16:53:41,602 - TestAlert -INFO - Quit
+2016-02-21 16:15:53,155 - Alert -INFO - App launched
+2016-02-21 16:15:53,942 - Alert -INFO - Browser maximized
+2016-02-21 16:15:55,587 - Alert -INFO - Click search button
+2016-02-21 16:15:57,704 - Alert -INFO - Capture alert text
+2016-02-21 16:15:57,982 - Alert -INFO - Accept alert window
+2016-02-21 16:15:58,028 - Alert -INFO - Comparing actual & expected result
+2016-02-21 16:17:39,577 - Alert -INFO - App launched
+2016-02-21 16:17:39,885 - Alert -INFO - Browser maximized
+2016-02-21 16:17:40,486 - Alert -INFO - Click search button
+2016-02-21 16:17:42,552 - Alert -INFO - Capture alert text
+2016-02-21 16:17:42,686 - Alert -INFO - Accept alert window
+2016-02-21 16:17:42,689 - Alert -INFO - Comparing actual & expected result
+2016-02-21 16:19:42,717 - Alert -INFO - App launched
+2016-02-21 16:19:43,108 - Alert -INFO - Browser maximized
+2016-02-21 16:19:43,905 - Alert -INFO - Click search button
+2016-02-21 16:19:46,006 - Alert -INFO - Capture alert text
+2016-02-21 16:19:46,101 - Alert -INFO - Accept alert window
+2016-02-21 16:19:46,104 - Alert -INFO - Comparing actual & expected result
+2016-04-12 18:59:30,339 - Alert -INFO - App launched
+2016-04-12 18:59:30,725 - Alert -INFO - Browser maximized
+2016-04-12 18:59:31,904 - Alert -INFO - Click search button
+2016-04-12 18:59:33,953 - Alert -INFO - Capture alert text
+2016-04-12 18:59:34,080 - Alert -INFO - Accept alert window
+2016-04-12 18:59:34,083 - Alert -INFO - Comparing actual & expected result
+2016-04-14 16:01:22,607 - CalendarTrip -INFO - App start
+2016-04-14 16:01:33,479 - CalendarTrip -INFO - Test Completed
+2016-04-14 16:02:22,755 - CalendarTrip -INFO - App start

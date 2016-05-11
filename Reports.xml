@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Report Suite" parallel="false">
+  <test name="Report Test">
+  <classes>
+  
+  <class name="Test.Alert"/>
+  <class name="Test.MultipleWindow"/>
+
+  
+  </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
